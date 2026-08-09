@@ -1,4 +1,5 @@
 <h1 data-importer="text" align="center">> adeebur-x64_github_readme.md</h1>
+<p align="center"> Arch Linux is the best :3 </p>
 
 ###
 
@@ -50,6 +51,8 @@
 
 ###
 
+<h2 data-importer="text" align="left">> My GitHub Stats!</h2>
+
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/adeebur-x64/adeebur-x64/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/adeebur-x64/adeebur-x64/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true&order=2" height="150" alt="languages graph"  />
@@ -57,7 +60,7 @@
 
 ###
 
-<div data-importer="border">
+<div data-importer="border" align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=48&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
 </div>
 
