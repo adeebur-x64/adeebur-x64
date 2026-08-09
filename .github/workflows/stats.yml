@@ -18,6 +18,7 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - uses: actions/checkout@v3
       - name: generate stats.svg
         uses: readme-tools/github-readme-stats-action@v1
         with:
